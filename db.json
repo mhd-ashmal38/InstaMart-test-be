@@ -1,0 +1,35 @@
+{
+    "products": [
+        {
+            "ItemID": 1,
+            "ItemName": "Rice",
+            "DiscRate": 25,
+            "MRP": 30,
+            "Total": 0,
+            "ImgUrl": "https://c.ndtvimg.com/2023-08/brlp7gk_uncooked-rice-or-rice-grains_625x300_18_August_23.jpg"
+        },
+        {
+            "ItemID": 2,
+            "ItemName": "Sugar",
+            "DiscRate": 27,
+            "MRP": 32,
+            "Total": 0,
+            "ImgUrl": "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg"
+        },
+        {
+            "ItemID": 3,
+            "ItemName": "Dal",
+            "DiscRate": 30,
+            "MRP": 35,
+            "Total": 0,
+            "ImgUrl": "https://gonefarmers.com/cdn/shop/products/image_09da0cb2-0322-4220-ba90-dfb1da774c62_1024x1024@2x.jpg"
+        }
+    ],
+    "users":[
+        {
+            "username":"user",
+            "email":"user@gmail.com",
+            "password":12345
+        }
+    ]
+}
